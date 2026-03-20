@@ -1,2 +1,3 @@
-# fast-docs-site-k4n7
-A documentation website for modern development workflows
+# Fast Docs Site K4N7
+
+A documentation website for modern development workflows.
